@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make the main background transparent */
+:root,html,body {
+  background-color: transparent !important;
+}
